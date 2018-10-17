@@ -4,7 +4,7 @@ public class Exec {
 
 	public static void main(String[] args) {
 
-		System.out.println("factorial(5): "+Practice.factorial(5));
+/*		System.out.println("factorial(5): "+Practice.factorial(5));
 		System.out.println("totalBunnyEars(5): "+Practice.totalBunnyEars(5));
 		System.out.println("triangle(5): "+Practice.triangle(5));
 		System.out.println("count7(77575): "+Practice.count7(77575));
@@ -24,7 +24,21 @@ public class Exec {
 		System.out.println("powerN(3,2): "+Practice.powerN(3,2));
 		System.out.println("changeXY(\"xyzzy\"): "+Practice.changeXY("xyzzy"));
 		System.out.println("allStar(\"hello\"): "+Practice.allStar("hello"));
-		System.out.println("array6(1,4,6): "+Practice.array6(new int[] {1,4,61}, 0));
+		System.out.println("array6(1,4,6): "+Practice.array6(new int[] {1,4,61}, 0));*/
+		System.out.println("count8(8818): "+Practice.count8(8818));
+		System.out.println("array220(new int[] {1,2,20}, 0): "+Practice.array220(new int[] {1,2,2}, 0));
+		System.out.println("endX(\"axxa\"): "+Practice.endX("axxa"));
+		System.out.println("parentBit(\"ab(yps)ab\"): "+Practice.parentBit("ab(yps)ab"));
+		System.out.println("strCopies(\"catcowcat\",\"cow\",1): "+Practice.strCopies("catcowcat","cow",1));
+		System.out.println("countPairs(\"AxAxA\"): "+Practice.countPairs("AxAxA"));
+		System.out.println("stringClean(\"aabbbcccc\"): "+Practice.stringClean("aabbbcccc"));
+		System.out.println("nestParen(\"(())\"): "+Practice.nestParen("(())"));
+		System.out.println("strDist(\"catcowcat\",\"cat\"): "+Practice.strDist("catcowcat","cat"));
+		
+		
+		
+		
+		
 		
 	}// end main
 }// end class
