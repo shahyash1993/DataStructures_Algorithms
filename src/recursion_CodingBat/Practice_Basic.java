@@ -3,7 +3,7 @@ package recursion_CodingBat;
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class Practice {
+public class Practice_Basic {
 
 	/* 1. */
 	public static int factorial(int n) {
@@ -460,18 +460,6 @@ public class Practice {
 		
 		return strDist(str, sub, idx+1, firstMatchIdx, lastMatchIdx);
 	}//end strDist
-
-	/* 13. */
-	/* 13. */
-	/* 13. */
-	/* 13. */
-	/* 13. */
-	/* 13. */
-	/* 13. */
-	/* 13. */
-	/* 13. */
-	/* 13. */
-	/* 13. */
-	/* 13. */
-
+	
+	
 }// end class
